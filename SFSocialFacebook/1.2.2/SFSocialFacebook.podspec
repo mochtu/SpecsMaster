@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.resource = "src/FBDialog.bundle"
 
-  s.dependency 'SBJson', '~> 3.0.1'
+  s.dependency 'SBJson', '~> 3.2.0'
 end
